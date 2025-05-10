@@ -48,20 +48,16 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/18817</dc:source>
 		<dc:source>https://archive.org/details/ralestoneluck0000nort</dc:source>
-		<!-- <meta property="se:production-notes">PRODUCTION_NOTES</meta> -->
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<!-- <meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta> -->
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/andre-norton_ralestone-luck</meta>
 		<dc:creator id="author">Andre Norton</dc:creator>
 		<meta property="file-as" refines="#author">Norton, Andre</meta>
-		<!-- <meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta> -->
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Andre_Norton</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n80126299</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Jean Bloé Niestlé</dc:contributor>
 		<meta property="file-as" refines="#artist">Niestlé, Jean Bloé</meta>
-		<!-- <meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta> -->
 		<meta property="se:url.authority.nacoaf" refines="#artist">id.loc.gov/authorities/names/nr00020786</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
@@ -79,7 +75,6 @@
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Cecil New</dc:contributor>
 		<meta property="file-as" refines="#producer-1">New, Cecil</meta>
-		<!-- <meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta> -->
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
