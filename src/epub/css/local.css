@@ -2,8 +2,8 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 #chapter-1 blockquote{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 /* All dedications */
@@ -83,4 +83,3 @@ section[epub|type~="epigraph"] > *{
 [epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
 }
-
