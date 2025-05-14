@@ -1,9 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-    <file path="chapter-2.xhtml">
-    	<ignore>
+	<file path="chapter-2.xhtml">
+		<ignore>
 			<code>t-003</code>
-			<reason>When dialog from the same speaker spans multiple paragraph elements, it’s correct grammar to omit closing ” until the last paragraph of dialog.
-            </reason>
+			<reason>When dialog from the same speaker spans multiple paragraph elements, it’s correct grammar to omit closing ” until the last paragraph of dialog.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
