@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/andre-norton/ralestone-luck</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-05-14T19:57:11Z</dc:date>
+		<meta property="dcterms:modified">2025-05-14T19:57:11Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,15 +43,15 @@
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">The descendants of a noble family, and of pirates, seek to restore their fortunes by locating the “luck” of their family.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A young brother and sister return to their family’s mansion with their older brother. The older brother has an old and worthless title⁠—The Marquess of Lorne. Their ancestors had resorted to piracy to survive. They all know their family’s history and legend, that there is hidden pirate’s treasure and that the lost “luck” is hidden in the mansion. With barely enough money to return, they seek the “luck” of the family, knowing neither what it is or where it is.&lt;/p&gt;
-			&lt;p&gt;Their precarious situation is worsened by the appearance of a rival claimant who asserts legal rights to the property. And there is a mysterious young boy living in the swamps who also seems to looking for something on their property. But despite these uncertainties, they are certain that the “luck” will restore their fortunes.&lt;/p&gt;
-			&lt;p&gt;This is the first book written by &lt;a href="https://standardebooks.org/ebooks/andre-norton"&gt;Andre Norton&lt;/a&gt;, circa 1930, and was the second to be published in 1938.&lt;/p&gt;
+			&lt;p&gt;A young brother and sister return to their family’s mansion with their older brother. They all know their family’s history: that their ancestors had resorted to piracy to survive—and family legend has it that there’s hidden pirate’s treasure, and lost “luck,” hidden somewhere in the mansion. With barely enough money to carry on, they seek the “luck” of the family, knowing neither &lt;em&gt;what&lt;/em&gt; it is nor &lt;em&gt;where&lt;/em&gt; it is.&lt;/p&gt;
+			&lt;p&gt;Their precarious situation is worsened by the appearance of a rival claimant who asserts legal rights to the property. And there’s the mysterious young boy living in the swamps who also seems to be looking for something on their land. But despite these challenges, they’re certain that the “luck” will restore their fortunes.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Ralestone Luck&lt;/i&gt;, written circa 1930, is the first book &lt;a href="https://standardebooks.org/ebooks/andre-norton"&gt;Andre Norton&lt;/a&gt; wrote, but the second one she actually published. It was first published in 1938.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/18817</dc:source>
 		<dc:source>https://archive.org/details/ralestoneluck0000nort</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">60429</meta>
+		<meta property="se:reading-ease.flesch">84.37</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/andre-norton_ralestone-luck</meta>
 		<dc:creator id="author">Andre Norton</dc:creator>
 		<meta property="file-as" refines="#author">Norton, Andre</meta>
@@ -83,6 +83,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
