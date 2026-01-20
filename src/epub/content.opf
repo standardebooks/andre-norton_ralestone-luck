@@ -51,7 +51,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/18817</dc:source>
 		<dc:source>https://archive.org/details/ralestoneluck0000nort</dc:source>
-		<meta property="se:word-count">60429</meta>
+		<meta property="se:word-count">58893</meta>
 		<meta property="se:reading-ease.flesch">84.37</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/andre-norton_ralestone-luck</meta>
 		<dc:creator id="author">Andre Norton</dc:creator>
