@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/andre-norton/ralestone-luck</dc:identifier>
 		<dc:date>2025-05-14T19:57:11Z</dc:date>
@@ -43,12 +43,12 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="schema:genre">Mystery</meta>
-		<dc:description id="description">The descendants of a noble family, and of pirates, seek to restore their fortunes by locating the “luck” of their family.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The descendants of a noble family, and of pirates, seek to restore their fortunes by locating the “luck” of their family.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;A young brother and sister return to their family’s mansion with their older brother. They all know their family’s history: that their ancestors had resorted to piracy to survive—and family legend has it that there’s hidden pirate’s treasure, and lost “luck,” hidden somewhere in the mansion. With barely enough money to carry on, they seek the “luck” of the family, knowing neither &lt;em&gt;what&lt;/em&gt; it is nor &lt;em&gt;where&lt;/em&gt; it is.&lt;/p&gt;
 			&lt;p&gt;Their precarious situation is worsened by the appearance of a rival claimant who asserts legal rights to the property. And there’s the mysterious young boy living in the swamps who also seems to be looking for something on their land. But despite these challenges, they’re certain that the “luck” will restore their fortunes.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Ralestone Luck&lt;/i&gt;, written circa 1930, is the first book &lt;a href="https://standardebooks.org/ebooks/andre-norton"&gt;Andre Norton&lt;/a&gt; wrote, but the second one she actually published. It was first published in 1938.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/18817</dc:source>
 		<dc:source>https://archive.org/details/ralestoneluck0000nort</dc:source>
