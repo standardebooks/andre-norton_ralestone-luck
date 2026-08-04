@@ -43,7 +43,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="schema:genre">Mystery</meta>
-		<dc:abstract>The descendants of a noble family, and of pirates, seek to restore their fortunes by locating the “luck” of their family.</dc:abstract>
+		<meta property="schema:abstract">The descendants of a noble family, and of pirates, seek to restore their fortunes by locating the “luck” of their family.</meta>
 		<dc:description>
 			&lt;p&gt;A young brother and sister return to their family’s mansion with their older brother. They all know their family’s history: that their ancestors had resorted to piracy to survive—and family legend has it that there’s hidden pirate’s treasure, and lost “luck,” hidden somewhere in the mansion. With barely enough money to carry on, they seek the “luck” of the family, knowing neither &lt;em&gt;what&lt;/em&gt; it is nor &lt;em&gt;where&lt;/em&gt; it is.&lt;/p&gt;
 			&lt;p&gt;Their precarious situation is worsened by the appearance of a rival claimant who asserts legal rights to the property. And there’s the mysterious young boy living in the swamps who also seems to be looking for something on their land. But despite these challenges, they’re certain that the “luck” will restore their fortunes.&lt;/p&gt;
